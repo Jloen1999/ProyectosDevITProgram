@@ -10,6 +10,7 @@ using namespace std;
 void continuar(bool cont);
 
 typedef char cadena[MAXC];
+cout<<"Mensjae"
 
 int menu(const char *opciones[], int totalOpciones);
 
