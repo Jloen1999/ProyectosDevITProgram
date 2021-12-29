@@ -8,7 +8,7 @@ using namespace std;
 #define MAXC 20
 
 void continuar(bool cont);
-
+cout<<"Nada"
 typedef char cadena[MAXC];
 cout<<"Mensjae"
 
